@@ -5,7 +5,3 @@
 [submodule "SAvalidation"]
 	path = SAvalidation
 	url = https://github.com/SeasAdjwG/SAvalidation
-[submodule "rjd3toolkit"]
-	path = rjd3toolkit
-	url = https://github.com/rjdverse/rjd3toolkit
-	registered = false
